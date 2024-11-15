@@ -1,4 +1,5 @@
-## Deep Charts: FastHTML App
+## Deep Charts Youtube Channel: https://www.youtube.com/@DeepCharts
+## Subscribe for more AI/Machine Learning/Data Science Tutorials
 
 ##################################
 ## 1. Data Import
