@@ -1,5 +1,7 @@
 ## Source: @DeepCharts Youtube Channel (https://www.youtube.com/@DeepCharts)
 
+#### NOTE: Set yfinance to the following version to get chart working: "pip install yfinance==0.2.40"
+
 import streamlit as st
 import yfinance as yf
 import pandas as pd
